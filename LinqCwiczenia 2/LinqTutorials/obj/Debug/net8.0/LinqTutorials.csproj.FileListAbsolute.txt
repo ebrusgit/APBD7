@@ -1,0 +1,14 @@
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/bin/Debug/net8.0/LinqTutorials
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/bin/Debug/net8.0/LinqTutorials.deps.json
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/bin/Debug/net8.0/LinqTutorials.runtimeconfig.json
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/bin/Debug/net8.0/LinqTutorials.dll
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/bin/Debug/net8.0/LinqTutorials.pdb
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.AssemblyInfoInputs.cache
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.AssemblyInfo.cs
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.csproj.CoreCompileInputs.cache
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.dll
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/refint/LinqTutorials.dll
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.pdb
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/LinqTutorials.genruntimeconfig.cache
+/Users/imsemiautomatic_/Ebru1/APBD7/LinqCwiczenia 2/LinqTutorials/obj/Debug/net8.0/ref/LinqTutorials.dll
